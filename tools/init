@@ -65,10 +65,10 @@ _check_init() {
     fi
   fi
 
-  if $_has_inited; then
-    echo "Already initialized."
-    exit 0
-  fi
+  # if $_has_inited; then
+  #   echo "Already initialized."
+  #   exit 0
+  # fi
 }
 
 check_env() {
