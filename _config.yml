@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Tech Blog # the main title
 
 tagline: sehyeondev # it will display as the sub-title
 
